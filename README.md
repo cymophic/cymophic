@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cymophic&bg_color=222222&title_color=E4E4E4&text_color=838383&border_color=222222" height="180" />
-  <img src="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&background=222222&title_color=E4E4E4&text_color=838383&border_color=838383" height="180" />
+  <img src="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&background=222222&currStreakNum=E4E4E4&sideNums=E4E4E4&currStreakLabel=838383&sideLabels=838383" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=8&card_width=320&bg_color=222222&title_color=E4E4E4&text_color=838383&border_color=838383" height="180" />
 </div>
 
