@@ -1,8 +1,6 @@
-<h1 align="left">Hi 👋! I'm Luis</h1>
-
 ###
 
-Details about me: [https://read.cv/luisabhram](https://read.cv/luisabhram)
+Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cymophic&bg_color=222222&title_color=E4E4E4&text_color=838383&border_color=838383" height="150" />
