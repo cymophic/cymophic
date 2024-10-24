@@ -2,9 +2,7 @@
 
 ###
 
-<p align="left">I'm a Programmer from the Philippines</p>
-
-More about me: [https://read.cv/luisabhram](https://read.cv/luisabhram)
+Details about me: [https://read.cv/luisabhram](https://read.cv/luisabhram)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cymophic&bg_color=222222&title_color=E4E4E4&text_color=838383&border_color=838383" height="150" />
