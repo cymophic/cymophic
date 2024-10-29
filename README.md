@@ -1,6 +1,9 @@
 
 # Hello! 👋
 
+- 👁 I'm a DevOps Engineer from the Philippines.
+- 🚀 I'm highly interested in programming and puzzles.
+
 ###
 
 <div align="center">
