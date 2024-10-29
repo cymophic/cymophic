@@ -7,7 +7,7 @@
 
 ###
 
-## 💡 My GitHub Stats
+## 💡 My GitHub Stats 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&background=222222&currStreakNum=E4E4E4&sideNums=E4E4E4&currStreakLabel=FB8C00&sideLabels=E4E4E4&dates=E4E4E4&date_format=n/j[/y]&border=838383&card_width=437" height="150"/> 
@@ -17,7 +17,3 @@
 </div>
 
 ###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cymophic&label=Profile%20views&color=0e75b6&style=flat" alt="cymophic" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cymophic" alt="cymophic" /></a> </p>
