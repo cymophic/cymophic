@@ -5,7 +5,7 @@
 - 🚀 I enjoy puzzles and solving programming challenges.
 - 🔎 I am currently learning Django.
 
-###
+<br/>
 
 ## 💡 My GitHub Stats 
 
