@@ -31,13 +31,11 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FB8C00&bg_color=F2F2F7&title_color=111111&text_color=111111&border_color=D1D9E0"
+      srcset="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FB8C00&bg_color=F2F2F7&title_color=111111&text_color=6A6A6A&border_color=D1D9E0"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326" height="150"/>
   </picture>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FB8C00&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383" height="150"/>
 </div>
 
 ###
