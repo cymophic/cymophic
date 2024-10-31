@@ -12,11 +12,11 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=E4E4E4&date_format=n/j[/y]&background=222222&currStreakNum=E4E4E4&sideNums=E4E4E4&currStreakLabel=FB8C00&sideLabels=E4E4E4&border=838383"
+      srcset="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=E4E4E4&date_format=n/j[/y]&background=222222&currStreakLabel=FB8C00&currStreakNum=E4E4E4&sideNums=E4E4E4&sideLabels=E4E4E4&border=838383"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=6A6A6A&date_format=n/j[/y]&background=F2F2F7&currStreakNum=111111&sideNums=111111&currStreakLabel=FB8C00&sideLabels=111111&border=D1D9E0"
+      srcset="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=6A6A6A&date_format=n/j[/y]&background=F2F2F7&ring=DB8E00&currStreakLabel=DB8E00&currStreakNum=111111&sideNums=111111&sideLabels=111111&border=D1D9E0"
       media="(prefers-color-scheme: light)"
     />
     <img src="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=E4E4E4&date_format=n/j[/y]" height="150"/>
