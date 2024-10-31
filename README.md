@@ -19,7 +19,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=&bg_color=F2F2F7&title_color=111111&text_color=111111&border_color=6A6A6A"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=&bg_color=F2F2F7&title_color=111111&text_color=111111&border_color=D1D9E0"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=" height="150"/>
