@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=cymophic&color=red&style=pixel&abbreviated=true&label=Visitor+Counter)
+![](https://komarev.com/ghpvc/?username=cymophic&color=red&style=for-the-badge&abbreviated=true&label=Visitor+Counter)
 
 # Hello! 👋 
 
