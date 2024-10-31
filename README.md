@@ -7,7 +7,7 @@
 
 <br/>
 
-## 💡 My GitHub Stats <span style="font-weight: normal; font-size: 0.7em;">(supports light and dark mode)</span>
+## 💡 My GitHub Stats ᶠᵒʳ ˡⁱᵍʰᵗ ᵃⁿᵈ ᵈᵃʳᵏ ᵐᵒᵈᵉ
 
 <div align="center">
   <picture>
