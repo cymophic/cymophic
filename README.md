@@ -7,7 +7,7 @@
 
 <br/>
 
-## 💡 My GitHub Stats <small>Supports light and dark mode</small>
+## 💡 My GitHub Stats <sub><sup>Supports light and dark mode</sup></sub>
 
 <div align="center">
   <picture>
