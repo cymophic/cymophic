@@ -9,6 +9,8 @@
 
 ## 💡 My GitHub Stats 
 
+<sup><sub>Supports light and dark mode.</sub></sup>
+
 <div align="center">
   <picture>
     <source
