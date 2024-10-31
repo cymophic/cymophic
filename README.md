@@ -27,7 +27,7 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FB8C00&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
+      srcset="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FFC83D&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
       media="(prefers-color-scheme: dark)"
     />
     <source
