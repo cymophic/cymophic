@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=cymophic&color=red&style=for-the-badge&abbreviated=true&label=Visitor+Counter)
-
 # Hello! 👋 
 
 - 👁 I'm a DevOps Engineer from the Philippines.
@@ -52,4 +50,6 @@
 </div>
 
 ###
+
+<!-- ![](https://komarev.com/ghpvc/?username=cymophic&color=red&style=for-the-badge&abbreviated=true&label=Visitor+Counter) -->
 
