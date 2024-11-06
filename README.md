@@ -49,8 +49,6 @@
   </picture>
 </div>
 
-<br/><br/><br/>
-
 ![](https://komarev.com/ghpvc/?username=cymophic&color=orange&abbreviated=true&label=Visitor+Counter&style=pixel)
 
 
