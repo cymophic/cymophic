@@ -51,9 +51,11 @@
 
 ###
 
-<div align="center">
-  <kbd><img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15" align="center" /></kbd>
-</div>
+<kbd>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15" align="center" />
+  </div>
+</kbd>
 
 <!-- ![](https://komarev.com/ghpvc/?username=cymophic&color=red&style=for-the-badge&abbreviated=true&label=Visitor+Counter) -->
 
