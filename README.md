@@ -49,8 +49,9 @@
   </picture>
 </div>
 
-![](https://komarev.com/ghpvc/?username=cymophic&color=orange&abbreviated=true&label=Visitor+Counter&style=pixel)
-
+<div align="center>
+  <img src="https://komarev.com/ghpvc/?username=cymophic&color=orange&abbreviated=true&label=Visitor+Counter&style=flat-square" align="center" />
+</div>
 
 <!-- ![](https://komarev.com/ghpvc/?username=cymophic&color=red&style=for-the-badge&abbreviated=true&label=Visitor+Counter) -->
 
