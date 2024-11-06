@@ -49,10 +49,9 @@
   </picture>
 </div>
 
-<br/>
-<br/>
+<br/><br/><br/>
 
-![](https://komarev.com/ghpvc/?username=cymophic&color=orange&style=for-the-badge&abbreviated=true&label=Visitor+Counter)
+![](https://komarev.com/ghpvc/?username=cymophic&color=orange&abbreviated=true&label=Visitor+Counter&style=pixel)
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=cymophic&color=red&style=for-the-badge&abbreviated=true&label=Visitor+Counter) -->
