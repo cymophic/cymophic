@@ -51,7 +51,7 @@
 
 ### 
 
-<picture>
-  <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15" align="center" />
+<picture align="center">
+  <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15" />
 </picture>
 
