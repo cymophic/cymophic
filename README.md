@@ -52,6 +52,6 @@
 ### 
 
 <picture>
-  <kbd><img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15" align="center" /></kbd>
+  <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15" align="center" />
 </picture>
 
