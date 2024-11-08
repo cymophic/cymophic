@@ -7,9 +7,9 @@
 <br/>
 
 ## 💡 My GitHub Stats 
-<!--<sub><sup>(supports light and dark mode)</sup></sub>-->
 
 <div align="center">
+<!--== GITHUB STREAKS ==-->  
   <picture>
     <source
       srcset="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=E4E4E4&date_format=n/j[/y]&background=222222&currStreakLabel=FB8C00&currStreakNum=E4E4E4&sideNums=E4E4E4&sideLabels=E4E4E4&border=838383"
@@ -21,9 +21,11 @@
     />
     <img src="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=E4E4E4&date_format=n/j[/y]" height="150"/>
   </picture>
+<!--== GITHUB STREAKS ==-->  
   
 <br/> 
-  
+
+<!--== TOP LANGUAGES ==-->  
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
@@ -35,7 +37,9 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=" height="150"/>
   </picture>
+<!--== TOP LANGUAGES ==-->
 
+<!--== GITHUB STATS ==-->
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FB8C00&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
@@ -47,14 +51,17 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326" height="150"/>
   </picture>
+<!--== GITHUB STATS ==-->
 
   <br/>
   <br/>
 
+<!--== PROFILE COUNTER ==-->
   <kbd>
     <picture>
       <source srcset="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square"/>
-      <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="16">
+      <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15">
     </picture>
   </kbd>
+<!--== PROFILE COUNTER ==-->
 </div>
