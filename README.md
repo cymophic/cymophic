@@ -2,7 +2,6 @@
 
 - 👁 I'm a DevOps Engineer from the Philippines.
 - 🚀 I enjoy puzzles, pixel art, and programming.
-- 🔎 I am currently learning Django and Networks.
 
 <br/>
 
