@@ -1,4 +1,7 @@
-# Hello! 👋 
+<h1>
+  <!-- https://readme-typing-svg.demolab.com/demo/ -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FB8C00&size=35&center=false&vCenter=true&width=500&height=36&duration=4000&lines=Hello!+👋;+I'm+Luis+Abhram!+👁️;Welcome+to+my+Profile!+😎"/>
+</h1>
 
 - 👁 I'm a developer from the Philippines.
 - 🚀 I enjoy puzzles, pixel art, and programming.
@@ -6,8 +9,9 @@
 ## 💡 My GitHub Stats 
 
 <div align="center">
-<!--== GITHUB STREAKS ==-->  
+    
   <picture>
+    <!-- https://streak-stats.demolab.com/demo/ -->
     <source
       srcset="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=E4E4E4&date_format=n/j[/y]&background=222222&currStreakLabel=FB8C00&currStreakNum=E4E4E4&sideNums=E4E4E4&sideLabels=E4E4E4&border=838383"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
@@ -18,12 +22,11 @@
     />
     <img src="https://streak-stats.demolab.com?user=cymophic&locale=en&mode=daily&hide_border=false&card_width=437&dates=E4E4E4&date_format=n/j[/y]" height="150"/>
   </picture>
-<!--== GITHUB STREAKS ==-->  
   
 <br/> 
 
-<!--== TOP LANGUAGES ==-->  
   <picture>
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
       media="(prefers-color-scheme: dark)"
@@ -34,10 +37,9 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=" height="150"/>
   </picture>
-<!--== TOP LANGUAGES ==-->
 
-<!--== GITHUB STATS ==-->
   <picture>
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FB8C00&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
       media="(prefers-color-scheme: dark)"
@@ -48,17 +50,16 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326" height="150"/>
   </picture>
-<!--== GITHUB STATS ==-->
 
   <br/>
   <br/>
 
-<!--== PROFILE COUNTER ==-->
   <kbd>
     <picture>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
       <source srcset="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square"/>
       <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15" align="center">
     </picture>
   </kbd>
-<!--== PROFILE COUNTER ==-->
+  
 </div>
