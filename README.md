@@ -1,6 +1,6 @@
 <h1>
     <!-- https://readme-typing-svg.demolab.com/demo/ -->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FB8C00&size=32&center=false&vCenter=true&width=500&height=36&duration=4000&lines=Hello!+👋;+I'm+Luis+Abhram!+👁️;Welcome+to+my+Profile!+😎"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FB8C00&size=38&center=false&vCenter=true&width=400&height=42&duration=4000&lines=Hello!+👋;+I'm+Luis+Abhram!+👁️;Welcome+to+my+Profile!+😎"/>
 </h1>
 
 - 👁 I'm a developer from the Philippines.
