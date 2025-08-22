@@ -29,27 +29,27 @@
 <picture>
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
+        srcset="https://github-readme-stats-cymo.vercel.app.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=&bg_color=F6F8FA&title_color=111111&text_color=111111&border_color=D1D9E0"
+        srcset="https://github-readme-stats-cymo.vercel.app.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=&bg_color=F6F8FA&title_color=111111&text_color=111111&border_color=D1D9E0"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=" height="150"/>
+    <img src="https://github-readme-stats-cymo.vercel.app.vercel.app/api/top-langs?username=cymophic&layout=compact&langs_count=6&card_width=370&exclude_repo=" height="150"/>
 </picture>
 
 <picture>
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FB8C00&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
+        srcset="https://github-readme-stats-cymo.vercel.app.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=FB8C00&bg_color=222222&title_color=E4E4E4&text_color=E4E4E4&border_color=838383"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=DB8E00&bg_color=F6F8FA&title_color=111111&text_color=6A6A6A&border_color=D1D9E0"
+        srcset="https://github-readme-stats-cymo.vercel.app.vercel.app/api?username=cymophic&show_icons=true&card_width=326&icon_color=DB8E00&bg_color=F6F8FA&title_color=111111&text_color=6A6A6A&border_color=D1D9E0"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=cymophic&show_icons=true&card_width=326" height="150"/>
+    <img src="https://github-readme-stats-cymo.vercel.app.vercel.app/api?username=cymophic&show_icons=true&card_width=326" height="150"/>
 </picture>
 
 <br/>
