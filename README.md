@@ -52,6 +52,16 @@
     <img src="https://www.github-readme-stats-cymo.vercel.app/api?username=cymophic&show_icons=true&card_width=326" height="150"/>
 </picture>
 
+</div>
+
+## ⚡ My Activity Graph 
+
+<div align="center">
+
+<picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&bg_color=222222&color=E4E4E4&line=E4E4E4&point=FB8C00&area=true&hide_border=false" height="auto"/>
+</picture>
+
 <br/>
 <br/>
 
