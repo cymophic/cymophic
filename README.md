@@ -59,7 +59,15 @@
 <div align="center">
 
 <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&bg_color=222222&color=E4E4E4&line=E4E4E4&point=FB8C00&area=true&hide_border=false" height="auto"/>
+    <source
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&bg_color=222222&color=E4E4E4&line=E4E4E4&point=FB8C00&border_color=838383&area=true&hide_border=false"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&bg_color=F6F8FA&color=6A6A6A&line=DB8E00&point=6A6A6A&border_color=D1D9E0&area=true&hide_border=false"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&area=true&hide_border=false" height="auto" width="800"/>
 </picture>
 
 <br/>
@@ -69,7 +77,7 @@
     <picture>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
         <source srcset="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square"/>
-        <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15" align="center">
+        <img src="https://komarev.com/ghpvc/?username=cymophic&base=500&color=orange&abbreviated=true&label=Profile+Views&style=flat-square" height="15">
     </picture>
 </kbd>
   
