@@ -61,10 +61,10 @@
 <picture>
    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <source
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&bg_color=222222&color=E4E4E4&line=FB8C00&point=FB8C00&border_color=838383&area=true&hide_border=false&radius=8"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&bg_color=222222&color=E4E4E4&line=FB8C00&point=FB8C00&border_color=838383&area=false&hide_border=false&radius=8"
         media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&bg_color=F6F8FA&color=6A6A6A&line=DB8E00&point=DB8E00&border_color=D1D9E0&area=true&hide_border=false&radius=8" height="auto" width="680"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cymophic&bg_color=F6F8FA&color=6A6A6A&line=DB8E00&point=DB8E00&border_color=D1D9E0&area=false&hide_border=false&radius=8" height="auto" width="680"/>
 </picture>
 
 <br/>
