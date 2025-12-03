@@ -5,7 +5,7 @@
 
 - 👁 I'm a developer from the Philippines.
 - 🚀 I enjoy puzzles, pixel art, and programming.
-- 🌱 I'm currently learning Django, Tailwind, & NextJS.
+- 🌱 I'm currently learning Django, and Docker.
 
 ## 💡 My GitHub Stats 
 
