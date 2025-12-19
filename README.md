@@ -5,7 +5,7 @@
 
 - 👁 I'm a developer from the Philippines.
 - 🚀 I enjoy puzzles, pixel art, and programming.
-- 🌱 I'm currently learning Django, Celery, and Docker.
+- 🌱 I'm currently learning Celery, Redis, and Kubernetes.
 
 ## 💡 My GitHub Stats 
 
