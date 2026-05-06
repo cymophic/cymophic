@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FB8C00&size=38&center=false&vCenter=true&width=400&duration=3000&pause=1700&lines=Hello!+👋;+I'm+Luis+Abhram!+👁️;Welcome+to+my+Profile!+😎"/>
 </h1>
 
-👁 I'm a **Full Stack DevOps Engineer** based in the Philippines. <br/>
-🚀 I enjoy puzzles, pixel art, and programming. <br/>
+- 👁 I'm a **Full Stack DevOps Engineer** based in the Philippines. <br/>
+- 🚀 I enjoy puzzles, pixel art, and programming. <br/>
 
 ## 🛠 Tech Stack
 
